@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <description>Rails konusunda ki bilgilerimi aktaramak icin bu blogu actim
+</description>
+    <link>http://alihamzakocacik.github.io/</link>
+    <atom:link href="http://alihamzakocacik.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 13 Dec 2015 14:58:51 +0200</pubDate>
+    <lastBuildDate>Sun, 13 Dec 2015 14:58:51 +0200</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Ali Hamza KOCACIK!</title>
+        <description>&lt;p&gt;hayati seviyorum herseye ragmen yasamaya deger ah bu abdullah anilin omrunu yedi&lt;/p&gt;
+
+&lt;p&gt;karnim ac suan midem alarm veriyor bana diyor ki seni terk edecegim gel beni ye diyo&lt;/p&gt;
+
+&lt;p&gt;bu anilin saclari beni oldurecek ve o meshur gulusu o ses nerden gelior bulamiorum&lt;/p&gt;
+</description>
+        <pubDate>Sun, 13 Dec 2015 13:58:02 +0200</pubDate>
+        <link>http://alihamzakocacik.github.io/dersler/2015/12/13/alihamza.html</link>
+        <guid isPermaLink="true">http://alihamzakocacik.github.io/dersler/2015/12/13/alihamza.html</guid>
+        
+        
+        <category>Dersler</category>
+        
+      </item>
+    
+  </channel>
+</rss>
